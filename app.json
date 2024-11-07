@@ -55,7 +55,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": true,
-      "value": "true"
+      "value": ""
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
